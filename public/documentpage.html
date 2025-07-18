@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+</body>
+
+</html>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q"
+        crossorigin="anonymous"></script>
+    <title>FashionStore API-Services</title>
+    <link rel="icon" href="./logo.png">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            scroll-behavior: smooth;
+        }
+
+        ::-webkit-scrollbar {
+            display: none;
+        }
+
+        body {
+            width: 100vw;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            place-items: center;
+        }
+
+        .pageContent {
+            height: 80vh;
+            width: 100vw;
+            padding-inline: 1.5rem;
+            display: flex;
+            align-items: flex-start;
+        }
+
+        .pageContent aside {
+            width: 20%;
+            height: 100%;
+            padding: 1rem;
+            position: fixed;
+        }
+
+        .pageContent aside ul li {
+            list-style: none;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: lighter;
+            color: #252525;
+            font-weight: 400;
+        }
+
+        aside ul li:hover {
+            color: black;
+        }
+
+
+        .pageContent section {
+            margin-left: 20%;
+            width: 80%;
+            height: 100%;
+            padding-inline: 2em;
+            /* background-color: black; */
+        }
+
+
+        .code {
+            position: relative;
+        }
+
+        .code button {
+            position: absolute;
+            top: 0;
+            right: 0;
+            border: 0;
+            margin: 2px;
+        }
+
+        @media screen and (max-width:600px) {
+            .pageContent aside {
+                display: none;
+            }
+
+            .pageContent section {
+                width: 100%;
+                padding: 1em;
+                margin: 0;
+            }
+            .startingheading h3{
+                font-size: x-large;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg bg-body-tertiary bg-opacity-50 position-fixed top-0 vw-100 z-3" id="mainNav">
+        <div class="container-fluid ">
+            <a class=" ms-2 navbar-brand d-flex justify-content-center align-items-center" href="/">
+                <img src="./logo.png" alt="Logo" width="50" height="50"
+                    class="d-inline-block align-text-top fit-content">
+                <span class="navbar-brand h1 mt-1 ms-2">
+                    FashionStore<span class="text-primary navbar-brand h1 fw-bold">API</span>
+                </span>
+            </a>
+            <button class="navbar-toggler  btn-outline-light" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse me-2" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" aria-current="page" href="/">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="/docs">Docs</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/">Github</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="pageContent" id="pageContent">
+        <aside class="aside">
+            <div>
+                <h5 class="heading fw-bold"> Products</h5>
+                <ul class="list-group">
+                    <li>
+                        <a class="btn border-0 fw-lighter" href="#code-snippet-1">Get all products</a>
+                    </li>
+                    <li>
+                        <a class="btn border-0 fw-light" href="#code-snippet-2">Get a single product</a>
+                    </li>
+                    <li>
+                        <a class="btn border-0 fw-light" href="#code-snippet-3">Get categories</a>
+                    </li>
+                    <li>
+                        <a class="btn border-0 fw-light" href="#code-snippet-4">Get products by categories</a>
+                    </li>
+                </ul>
+            </div>
+        </aside>
+        <section>
+            <div class="startingheading mb-5 mt-3">
+                <h3 class="heading fw-bold">Getting Started with the API !</h3>
+                <p class="fw-lighter">Build faster with FashionStore API - Complete reference and usage examples in one
+                    place.</p>
+            </div>
+            <div class="examplecodes">
+                <div class="exampleheading mb-5">
+                    <h3 class="heading fw-bold">Routes Supported</h3>
+                </div>
+                <div class="productsexample mb-5">
+                    <div class="title">
+                        <h5>Get all products</h5>
+                    </div>
+                    <div class="code p-3 rounded-2" style="background-color: #252525;">
+                        <p>
+                            <code class="text-white" id="code-snippet-1">
+                                fetch("") <br>
+                                    .then(res => res.json()) <br>
+                                    .then(res => console.log(res))
+                            </code>
+                        </p>
+                        <button class="btn text-white" onclick="copyCode(this, 'code-snippet-1')">copy</button>
+                    </div>
+                </div>
+                <div class="productsexample mb-5">
+                    <div class="title">
+                        <h5>Get a single products</h5>
+                    </div>
+                    <div class="code p-3 rounded-2" style="background-color: #252525;">
+                        <p>
+                            <code class="text-white" id="code-snippet-2">
+                                fetch("") <br>
+                                    .then(res => res.json()) <br>
+                                    .then(res => console.log(res))
+                            </code>
+                        </p>
+                        <button class="btn text-white" onclick="copyCode(this,'code-snippet-2')">copy</button>
+                    </div>
+                </div>
+                <div class="productsexample mb-5">
+                    <div class="title">
+                        <h5>Get categories</h5>
+                    </div>
+                    <div class="code p-3 rounded-2" style="background-color: #252525;">
+                        <p>
+                            <code class="text-white" id="code-snippet-3">
+                                fetch("") <br>
+                                    .then(res => res.json()) <br>
+                                    .then(res => console.log(res))
+                            </code>
+                        </p>
+                        <button class="btn text-white" onclick="copyCode(this,'code-snippet-3')">copy</button>
+                    </div>
+                </div>
+                <div class="productsexample mb-5 pb-5">
+                    <div class="title">
+                        <h5>Get products by cateogories</h5>
+                    </div>
+                    <div class="code p-3 rounded-2" style="background-color: #252525;">
+                        <p>
+                            <code class="text-white" id="code-snippet-4">
+                                fetch("") <br>
+                                    .then(res => res.json()) <br>
+                                    .then(res => console.log(res))
+                            </code>
+                        </p>
+                        <button class="btn text-white" onclick="copyCode(this, 'code-snippet-4')">copy</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <script>
+        function adjustContentPadding() {
+            const navbar = document.getElementById("mainNav");
+            const content = document.getElementById("pageContent");
+            const navHeight = navbar.offsetHeight;
+            content.style.marginTop = navHeight + "px";
+        }
+        function copyCode(button, codeid) {
+            const code = document.getElementById(codeid).innerText;
+            navigator.clipboard.writeText(code).then(() => {
+                button.innerText = "copied!";
+                setTimeout(() => {
+                    button.textContent = "copy";
+                }, 3000);
+            }).catch(err => {
+                button.textContent = "Failed to copy";
+                console.error("Error copying code: ", err);
+            });
+        }
+
+        window.addEventListener("load", adjustContentPadding);
+        window.addEventListener("resize", adjustContentPadding);
+    </script>
+</body>
+
+</html>

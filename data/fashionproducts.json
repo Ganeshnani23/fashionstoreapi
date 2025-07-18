@@ -1,0 +1,1263 @@
+
+[
+    {
+        "id": 1001,
+        "title": "Xyxx",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1001.webp",
+        "price": 239,
+        "description": "Men Solid Round Neck Pure Cotton Grey T-Shirt",
+        "subcategory": "mens_tshirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1002,
+        "title":"Xyxx",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1002.webp",
+        "price": 239,
+        "description": "Men Solid Round Neck Pure Cotton Black T-Shirt",
+        "subcategory": "mens_tshirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1003,
+        "title": "Xyxx",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1003.webp",
+        "price": 239,
+        "description": "Men Solid Round Neck Pure Cotton Brown T-Shirt",
+        "subcategory": "mens_tshirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1004,
+        "title": "Xyxx",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1004.webp",
+        "price": 239,
+        "description": "Men Solid Round Neck Pure Cotton Purple T-Shirt",
+        "subcategory": "mens_tshirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1005,
+        "title": "Xyxx",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1005.webp",
+        "price": 239,
+        "description": "Men Solid Round Neck Pure Cotton White T-Shirt",
+        "subcategory": "mens_tshirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1006,
+        "title": "Xyxx",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1006.webp",
+        "price": 239,
+        "description": "Men Solid Round Neck Pure Cotton Mroon T-Shirt",
+        "subcategory": "mens_tshirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1007,
+        "title": "Maniac",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1007.webp",
+        "price": 599,
+        "description": "Men Solid Round Neck Pure Cotton Beige T-Shirt",
+        "subcategory": "mens_tshirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1008,
+        "title": "Sti",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1008.webp",
+        "price": 199,
+        "description": "Men Printed Round Neck Polyester Multicolor T-Shirt",
+        "subcategory": "mens_tshirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1009,
+        "title": "Sti",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1009.webp",
+        "price": 199,
+        "description": "Men Printed Round Neck Polyester Blue T-Shirt",
+        "subcategory": "mens_tshirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1010,
+        "title": "Sti",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1010.webp",
+        "price": 199,
+        "description": "Men Printed Round Neck Polyester Multicolor T-Shirt",
+        "subcategory": "mens_tshirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1011,
+        "title": "Madfrog",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1011.webp",
+        "price": 199,
+        "description": "Men Solid Polo Neck Polyester Green T-Shirt",
+        "subcategory": "mens_tshirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1012,
+        "title": "Vebnor",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1010.webp",
+        "price": 279,
+        "description": "Men Solid Polo Neck Polyester Green T-Shirt",
+        "subcategory": "mens_tshirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1013,
+        "title": "Kroptee",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1013.webp",
+        "price": 269,
+        "description": "Men Colorblock Round Neck Pure Cotton Pink T-Shirt",
+        "subcategory": "mens_tshirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1014,
+        "title": "Kroptee",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1014.webp",
+        "price": 269,
+        "description": "Men Colorblock Round Neck Pure Cotton Multicolor T-Shirt",
+        "subcategory": "mens_tshirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1015,
+        "title": "Fincher",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1015.webp",
+        "price": 350,
+        "description": "Men Graphic Print Round Neck Cotton Blend Black T-Shirt",
+        "subcategory": "mens_tshirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1016,
+        "title": "Xif",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1016.webp",
+        "price": 239,
+        "description": "Men Typography Polo Neck Cotton Blend Orange T-Shirt",
+        "subcategory": "mens_tshirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1017,
+        "title": "Mavinclub",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1017.webp",
+        "price": 239,
+        "description": "Men Printed Round Neck Pure Cotton Black T-Shirt",
+        "subcategory": "mens_tshirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1018,
+        "title": "Kajaru",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1018.webp",
+        "price": 259,
+        "description": "Men Self Design Round Neck Polyester Blue T-Shirt",
+        "subcategory": "mens_tshirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1019,
+        "title": "Olive-emax",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1019.webp",
+        "price": 369,
+        "description": "Men Printed Round Neck Polyester Green T-Shirt",
+        "subcategory": "mens_tshirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1020,
+        "title": "Linen Club",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1020.webp",
+        "price": 2590,
+        "description": "Men NA Fit Striped Spread Collar Casual Shirt",
+        "subcategory": "casual_shirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1021,
+        "title": "Linen Club",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1021.webp",
+        "price": 2499,
+        "description": "Men NA Fit Striped Spread Collar Casual Shirt",
+        "subcategory": "casual_shirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1022,
+        "title": "Highlander",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1022.webp",
+        "price": 540,
+        "description": "Men Slim Fit Checkered Spread Collar Casual Shirt",
+        "subcategory": "casual_shirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1023,
+        "title": "Highlander",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1023.webp",
+        "price": 540,
+        "description": "Men Slim Fit Checkered Spread Collar Casual Shirt",
+        "subcategory": "casual_shirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1024,
+        "title": "Highlander",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1024.webp",
+        "price": 580,
+        "description": "Men Slim Fit Checkered Spread Collar Casual Shirt",
+        "subcategory": "casual_shirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1025,
+        "title": "Highlander",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1025.webp",
+        "price": 570,
+        "description": "Men Slim Fit Checkered Spread Collar Casual Shirt",
+        "subcategory": "casual_shirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1026,
+        "title": "Metronaut",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1026.webp",
+        "price": 299,
+        "description": "Men Regular Fit Checkered Spread Collar Casual Shirt",
+        "subcategory": "casual_shirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1027,
+        "title": "Sti",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1027.webp",
+        "price": 259,
+        "description": "Men Regular Fit Striped Casual Shirt",
+        "subcategory": "casual_shirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1028,
+        "title": "The Indian Garage Co.",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1028.webp",
+        "price": 559,
+        "description": "Men Slim Fit Printed Casual Shirt",
+        "subcategory": "casual_shirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1029,
+        "title": "Voroxy",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1029.webp",
+        "price": 299,
+        "description": "Men Regular Fit Printed Spread Collar Casual Shirt",
+        "subcategory": "casual_shirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1030,
+        "title": "Voroxy",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1030.webp",
+        "price": 299,
+        "description": "Men Regular Fit Dyed/Ombre Spread Collar Casual Shirt",
+        "subcategory": "casual_shirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1031,
+        "title": "Sti",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1031.webp",
+        "price": 257,
+        "description": "Men Regular Fit Printed Casual Shirt",
+        "subcategory": "casual_shirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1032,
+        "title": "Highlander",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1032.webp",
+        "price": 369,
+        "description": "Men Slim Fit Checkered Cut Away Collar Casual Shirt",
+        "subcategory": "casual_shirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1033,
+        "title": "The Indian Garage Co.",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1033.webp",
+        "price": 573,
+        "description": "Men Slim Fit Checkered Cut Away Collar Casual Shirt",
+        "subcategory": "casual_shirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1034,
+        "title": "Roadster",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1034.webp",
+        "price": 435,
+        "description": "Men Relaxed Fit Fit Solid Casual Shirt",
+        "subcategory": "casual_shirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1035,
+        "title": "Red Tape",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1035.webp",
+        "price": 719,
+        "description": "Men Regular Fit Solid Button Down Collar Casual Shirt",
+        "subcategory": "casual_shirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1036,
+        "title": "Red Tape",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1036.webp",
+        "price": 647,
+        "description": "Men Regular Fit Solid Button Down Collar Casual Shirt",
+        "subcategory": "casual_shirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1037,
+        "title": "Roadster",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1037.webp",
+        "price": 540,
+        "description": "Men Regular Fit Checkered Spread Collar Casual Shirt",
+        "subcategory": "casual_shirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1038,
+        "title": "Roadster",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1038.webp",
+        "price": 816,
+        "description": "Men Regular Fit Checkered Ribbed Collar Casual Shirt",
+        "subcategory": "casual_shirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1039,
+        "title": "Dennis Lingo",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1039.webp",
+        "price": 369,
+        "description": "Men Slim Fit Checkered Spread Collar Casual Shirt",
+        "subcategory": "casual_shirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1040,
+        "title": "British Club",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1040.webp",
+        "price": 1049,
+        "description": "Men Slim Fit Checkered Spread Collar Casual Shirt",
+        "subcategory": "casual_shirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1041,
+        "title": "Mildin",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1041.webp",
+        "price": 379,
+        "description": "Men Slim Fit Solid Spread Collar Formal Shirt",
+        "subcategory": "formal_shirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1042,
+        "title": "Accox",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1042.webp",
+        "price": 499,
+        "description": "Men Regular Fit Solid Spread Collar Formal Shirt",
+        "subcategory": "formal_shirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1043,
+        "title": "Voroxy",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1043.webp",
+        "price": 299,
+        "description": "Men Regular Fit Solid Spread Collar Formal Shirt",
+        "subcategory": "formal_shirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1044,
+        "title": "Stoneberg",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1044.webp",
+        "price": 379,
+        "description": "Men Regular Fit Solid Spread Collar Formal Shirt",
+        "subcategory": "formal_shirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1045,
+        "title": "Accox",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1045.webp",
+        "price": 499,
+        "description": "Men Regular Fit Solid Spread Collar Formal Shirt",
+        "subcategory": "formal_shirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1046,
+        "title": "The Indian Garage Co.",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1046.webp",
+        "price": 669,
+        "description": "Men Slim Fit Solid Cut Away Collar Formal Shirt",
+        "subcategory": "formal_shirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1047,
+        "title": "Jack & Jones",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1047.webp",
+        "price": 819,
+        "description": "Men Slim Fit Solid Spread Collar Formal Shirt",
+        "subcategory": "formal_shirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1048,
+        "title": "Stoneberg",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1048.webp",
+        "price": 379,
+        "description": "Men Slim Fit Solid Cut Away Collar Formal Shirt",
+        "subcategory": "formal_shirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1049,
+        "title": "Raymond",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1049.webp",
+        "price": 900,
+        "description": "Men Slim Fit Solid Formal Shirt",
+        "subcategory": "formal_shirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1050,
+        "title": "Raymond",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1050.webp",
+        "price": 901,
+        "description": "Men Slim Fit Solid Formal Shirt",
+        "subcategory": "formal_shirts",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1051,
+        "title": "Denim",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1051.webp",
+        "price": 659,
+        "description": "Men Tapered Fit Mid Rise Dark Blue Jeans",
+        "subcategory": "mens_jeans",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1052,
+        "title": "Urban Fashion",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1052.webp",
+        "price": 699,
+        "description": "Men Slim Mid Rise Black Jeans",
+        "subcategory": "mens_jeans",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1053,
+        "title": "Levi's",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1053.webp",
+        "price": 1929,
+        "description": "Men Slim Mid Rise Blue Jeans",
+        "subcategory": "mens_jeans",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1054,
+        "title": "Jack & Jones",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1054.webp",
+        "price": 1749,
+        "description": "Men Slim Low Rise Blue Jeans",
+        "subcategory": "mens_jeans",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1055,
+        "title": "Classic Craft",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1055.webp",
+        "price": 499,
+        "description": "Men Slim Mid Rise Dark Blue Jeans",
+        "subcategory": "mens_jeans",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1056,
+        "title": "Roadster",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1056.webp",
+        "price": 720,
+        "description": "Men Slim Mid Rise Black Jeans",
+        "subcategory": "mens_jeans",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1057,
+        "title": "Pepe Jeans",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1057.webp",
+        "price": 1229,
+        "description": "Men Slim Mid Rise Black Jeans",
+        "subcategory": "mens_jeans",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1058,
+        "title": "Roadster",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1058.webp",
+        "price": 630,
+        "description": "Men Slim Mid Rise Blue Jeans",
+        "subcategory": "mens_jeans",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1059,
+        "title": "Urban Fashion",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1059.webp",
+        "price": 999,
+        "description": "Men Regular Mid Rise Grey Jeans",
+        "subcategory": "mens_jeans",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1060,
+        "title": "Louis Philippe",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1060.webp",
+        "price": 1769,
+        "description": "Men Slim Low Rise Blue Jeans",
+        "subcategory": "mens_jeans",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1061,
+        "title": "Highlander",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1061.webp",
+        "price": 800,
+        "description": "Men Slim Mid Rise Blue Jeans",
+        "subcategory": "mens_jeans",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1062,
+        "title": "Louis Philippe",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1062.webp",
+        "price": 1489,
+        "description": "Men Regular Low Rise Beige Jeans",
+        "subcategory": "mens_jeans",
+        "category": "mens_wear"
+    },
+    {
+        "id": 1063,
+        "title": "Kurock",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1063.webp",
+        "price": 699,
+        "description": "Women Viscose Rayon Kurta Pant Dupatta Set",
+        "subcategory": "kurtas",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1064,
+        "title": "Youthnic",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1064.webp",
+        "price": 729,
+        "description": "Women Chanderi Kurta Pant Dupatta Set",
+        "subcategory": "kurtas",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1065,
+        "title": "Physil",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1065.webp",
+        "price": 379,
+        "description": "Women Embroidered Viscose Rayon Straight Kurta  (Green)",
+        "subcategory": "kurtas",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1066,
+        "title": "VredeVogel",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1066.webp",
+        "price": 699,
+        "description": "Women Cotton Silk Kurta Pant Dupatta Set",
+        "subcategory": "kurtas",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1067,
+        "title": "Tibra Attire",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1067.webp",
+        "price": 479,
+        "description": "Women Cotton Blend Kurti Pant Dupatta Set",
+        "subcategory": "kurtas",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1068,
+        "title": "Dishwa Fashion",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1068.webp",
+        "price": 749,
+        "description": "Women Chanderi Kurta Pant Dupatta Set",
+        "subcategory": "kurtas",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1069,
+        "title": "Kjfab",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1069.webp",
+        "price": 369,
+        "description": "Women Printed Pure Cotton Straight Kurta  (Red)",
+        "subcategory": "kurtas",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1070,
+        "title": "B5 Industries",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1070.webp",
+        "price": 649,
+        "description": "Women Self Design Viscose Rayon Anarkali Kurta  (Yellow)",
+        "subcategory": "kurtas",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1071,
+        "title": "Gosriki",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1071.webp",
+        "price": 687,
+        "description": "Women Cotton Blend Kurta Pant Dupatta Set",
+        "subcategory": "kurtas",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1072,
+        "title": "Forkey",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1072.webp",
+        "price": 299,
+        "description": "Women Embellished Net Straight Kurta  (White)",
+        "subcategory": "kurtas",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1073,
+        "title": "Keshri nandan",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1073.webp",
+        "price": 950,
+        "description": "Self Design Daily Wear Art Silk Saree  (Multicolor)",
+        "subcategory": "sarees",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1074,
+        "title": "Lorofy",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1074.webp",
+        "price": 299,
+        "description": "Self Design Bollywood Net Saree  (Black)",
+        "subcategory": "sarees",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1075,
+        "title": "Keshri",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1075.webp",
+        "price": 699,
+        "description": "Printed Daily Wear Linen Saree  (Multicolor)",
+        "subcategory": "sarees",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1076,
+        "title": "Lorofy",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1076.webp",
+        "price": 299,
+        "description": "Self Design Bollywood Net Saree  (Purple)",
+        "subcategory": "sarees",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1077,
+        "title": "Mirchi Fashion",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1077.webp",
+        "price": 449,
+        "description": "Printed, Floral Print Daily Wear Chiffon Saree  (Grey, Red)",
+        "subcategory": "sarees",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1078,
+        "title": "Mirchi Fashion",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1078.webp",
+        "price": 449,
+        "description": "Printed, Floral Print Daily Wear Chiffon Saree  (Light Blue, Orange)",
+        "subcategory": "sarees",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1079,
+        "title": "Mirchi Fashion",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1079.webp",
+        "price": 589,
+        "description": "Printed, Blocked Printed Daily Wear Cotton Blend Saree  (Grey, Multicolor)",
+        "subcategory": "sarees",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1080,
+        "title": "Mirchi Fashion",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1080.webp",
+        "price": 689,
+        "description": "Printed, Blocked Printed Daily Wear Cotton Blend Saree  (Purple, Cream)",
+        "subcategory": "sarees",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1081,
+        "title": "Avantika Fashion",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1081.webp",
+        "price": 379,
+        "description": "Woven Kanjivaram Pure Silk, Art Silk Saree  (White)",
+        "subcategory": "sarees",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1082,
+        "title": "Avantika Fashion",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1082.webp",
+        "price": 459,
+        "description": "Woven Kanjivaram Pure Silk, Art Silk Saree  (Green)",
+        "subcategory": "sarees",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1083,
+        "title": "Magneitta",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1083.webp",
+        "price": 587,
+        "description": "Striped Kanjivaram Tissue, Cotton Silk Saree  (Black)",
+        "subcategory": "sarees",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1084,
+        "title": "TopJec",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1084.webp",
+        "price": 323,
+        "description": "Woven Bollywood Jacquard, Pure Silk Saree  (Green)",
+        "subcategory": "sarees",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1085,
+        "title": "Cute Fellow",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1085.webp",
+        "price": 799,
+        "description": "Embroidered Semi Stitched Lehenga Choli  (Purple)",
+        "subcategory": "lehenga",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1086,
+        "title": "Trivety",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1086.webp",
+        "price": 439,
+        "description": "Printed Semi Stitched Lehenga Choli  (Light Blue)",
+        "subcategory": "lehenga",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1087,
+        "title": "Shree Creation",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1087.webp",
+        "price": 749,
+        "description": "Self Design Semi Stitched Lehenga Choli  (Beige, Red)",
+        "subcategory": "lehenga",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1088,
+        "title": "Jba Cart",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1088.webp",
+        "price": 854,
+        "description": "Embellished Semi Stitched Lehenga Choli  (Light Blue)",
+        "subcategory": "lehenga",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1089,
+        "title": "RK Infinitive",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1089.webp",
+        "price": 779,
+        "description": "Solid Semi Stitched Lehenga Choli  (Gold, Dark Blue)",
+        "subcategory": "lehenga",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1090,
+        "title": "Smartees",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1090.webp",
+        "price": 169,
+        "description": "Women Printed, Typography Round Neck Cotton Blend Black T-Shirt",
+        "subcategory": "womens_topwear",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1091,
+        "title": "Adyavastram",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1091.webp",
+        "price": 194,
+        "description": "Women Typography Round Neck Cotton Blend Purple T-Shirt",
+        "subcategory": "womens_topwear",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1092,
+        "title": "J Turritopsis",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1092.webp",
+        "price": 329,
+        "description": "Women Boxy, Regular Fit Printed Lapel Collar Casual Shirt",
+        "subcategory": "womens_topwear",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1093,
+        "title": "Diversify",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1093.webp",
+        "price": 469,
+        "description": "Women Printed Round Neck Pure Cotton Red T-Shirt",
+        "subcategory": "womens_topwear",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1094,
+        "title": "Jannie Hustler",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1094.webp",
+        "price": 199,
+        "description": "Women Printed Round Neck Cotton Blend Multicolor T-Shirt",
+        "subcategory": "womens_topwear",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1095,
+        "title": "Sangouri",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1095.webp",
+        "price": 299,
+        "description": "Casual Regular Sleeves Floral Print Women Dark Blue Top",
+        "subcategory": "womens_topwear",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1096,
+        "title": "Janasya",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1096.webp",
+        "price": 799,
+        "description": "Women Fit and Flare Yellow Dress",
+        "subcategory": "womens_dresses",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1097,
+        "title": "Janasya",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1097.webp",
+        "price": 999,
+        "description": "Women Tiered Yellow, Light Green Dress",
+        "subcategory": "womens_dresses",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1098,
+        "title": "Metronaut",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1098.webp",
+        "price": 499,
+        "description": "Women Fit and Flare Multicolor Dress",
+        "subcategory": "womens_dresses",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1099,
+        "title": "Metronaut",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1099.webp",
+        "price": 679,
+        "description": "Women Gown Grey Dress",
+        "subcategory": "womens_dresses",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1100,
+        "title": "Vishudh",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1100.webp",
+        "price": 829,
+        "description": "Women Maxi Multicolor Dress",
+        "subcategory": "womens_dresses",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1101,
+        "title": "Sassafras",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1101.webp",
+        "price": 965,
+        "description": "Women A-line Multicolor Dress",
+        "subcategory": "womens_dresses",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1102,
+        "title": "Jaipur Kurti",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1102.webp",
+        "price": 799,
+        "description": "Women Asymmetric Blue Dress",
+        "subcategory": "womens_dresses",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1103,
+        "title": "Aask",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1103.webp",
+        "price": 949,
+        "description": "Women Fit and Flare Purple Dress",
+        "subcategory": "womens_dresses",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1104,
+        "title": "Raiyani Enterprise",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1104.webp",
+        "price": 426,
+        "description": "Women Fit and Flare Dark Blue Dress",
+        "subcategory": "womens_dresses",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1105,
+        "title": "Kassually",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1105.webp",
+        "price": 787,
+        "description": "Women Fit and Flare White Dress",
+        "subcategory": "womens_dresses",
+        "category": "womens_wear"
+    },
+    {
+        "id": 1106,
+        "title": "Fmse",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1106.webp",
+        "price": 489,
+        "description": "Girls Festive & Party Kurta, Pyjama & Dupatta Set  (Dark Blue Pack of 1)",
+        "subcategory": "girls_kurta",
+        "category": "kids_wear"
+    },
+    {
+        "id": 1107,
+        "title": "MD Enterprise",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1107.webp",
+        "price": 479,
+        "description": "Girls Wedding Kurta and Palazzo Set  (Purple Pack of 1)",
+        "subcategory": "girls_kurta",
+        "category": "kids_wear"
+    },
+    {
+        "id": 1108,
+        "title": "Barkatdesigning",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1108.webp",
+        "price": 309,
+        "description": "Girls Festive & Party Kurta and Pyjama Set  (Multicolor Pack of 1)",
+        "subcategory": "girls_kurta",
+        "category": "kids_wear"
+    },
+    {
+        "id": 1109,
+        "title": "Fashion Spot",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1109.webp",
+        "price": 999,
+        "description": "Girls Casual, Festive & Party, Formal, Wedding Kurta, Pyjama & Dupatta Set  (Green Pack of 1)",
+        "subcategory": "girls_kurta",
+        "category": "kids_wear"
+    },
+    {
+        "id": 1110,
+        "title": "Barkatdesigning",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1110.webp",
+        "price": 309,
+        "description": "Girls Festive & Party Kurta and Pyjama Set  (Multicolor Pack of 1)",
+        "subcategory": "girls_kurta",
+        "category": "kids_wear"
+    },
+    {
+        "id": 1111,
+        "title": "Fmse",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1111.webp",
+        "price": 489,
+        "description": "Girls Festive & Party Kurta, Pyjama & Dupatta Set  (Dark Green Pack of 1)",
+        "subcategory": "girls_kurta",
+        "category": "kids_wear"
+    },
+    {
+        "id": 1112,
+        "title": "Chandrika",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1112.webp",
+        "price": 294,
+        "description": "Girls Festive & Party Top and Skirt Set  (Pink Pack of 2)",
+        "subcategory": "girls_kurta",
+        "category": "kids_wear"
+    },
+    {
+        "id": 1113,
+        "title": "Satyamfab",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1113.webp",
+        "price": 675,
+        "description": "Baby Girls Festive & Party Kurta and Dhoti Pant Set  (Yellow Pack of 1)",
+        "subcategory": "girls_kurta",
+        "category": "kids_wear"
+    },
+    {
+        "id": 1114,
+        "title": "Jyoti Export",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1114.webp",
+        "price": 412,
+        "description": "Girls Festive & Party, Wedding Kurta and Dhoti Pant Set  (Red Pack of 1)",
+        "subcategory": "girls_kurta",
+        "category": "kids_wear"
+    },
+    {
+        "id": 1115,
+        "title": "AJ Designs",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1115.webp",
+        "price": 1749,
+        "description": "Girls Festive & Party Kurta and Palazzo Set  (Pink Pack of 1)",
+        "subcategory": "girls_kurta",
+        "category": "kids_wear"
+    },
+    {
+        "id": 1116,
+        "title": "New Gen",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1116.webp",
+        "price": 190,
+        "description": "Girls Casual Top and Skirt Set  (Orange Pack of 1)",
+        "subcategory": "girls_kurta",
+        "category": "kids_wear"
+    },
+    {
+        "id": 1117,
+        "title": "Mist N Fogg",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1117.webp",
+        "price": 269,
+        "description": "Short For Boys & Girls Casual Printed Cotton Blend  (Multicolor, Pack of 4)",
+        "subcategory": "kids_shorts",
+        "category": "kids_wear"
+    },
+    {
+        "id": 1118,
+        "title": "Mars Infiniti",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1118.webp",
+        "price": 669,
+        "description": "Boys Casual T-shirt Shorts  (Multicolor)",
+        "subcategory": "boys_casual",
+        "category": "kids_wear"
+    },
+    {
+        "id": 1119,
+        "title": "Tarsier",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1119.webp",
+        "price": 489,
+        "description": "Baby Boys & Baby Girls Casual T-shirt Shorts  (Multicolor)",
+        "subcategory": "kids_casual",
+        "category": "kids_wear"
+    },
+    {
+        "id": 1120,
+        "title": "Fly Step",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1120.webp",
+        "price": 309,
+        "description": "Baby Boys & Baby Girls Casual Dress Pyjama  (Multicolor)",
+        "subcategory": "kids_casual",
+        "category": "kids_wear"
+    },
+    {
+        "id": 1121,
+        "title": "Mayneisha",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1121.webp",
+        "price": 440,
+        "description": "Baby Boys & Baby Girls Casual Sweatshirt Track Suit  (Pink)",
+        "subcategory": "kids_sweartshirt",
+        "category": "kids_wear"
+    },
+    {
+        "id": 1122,
+        "title": "Kanhaa",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1122.webp",
+        "price": 290,
+        "description": "Dungaree For Boys & Girls Casual Printed, Applique Denim  (Multicolor, Pack of 1)",
+        "subcategory": "kids_casual",
+        "category": "kids_wear"
+    },
+    {
+        "id": 1123,
+        "title": "New Gen",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1123.webp",
+        "price": 190,
+        "description": "Boys Printed Pure Cotton Regular T Shirt  (White, Pack of 1)",
+        "subcategory": "boys_casual",
+        "category": "kids_wear"
+    },
+    {
+        "id": 1124,
+        "title": "Mars Infiniti",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1124.webp",
+        "price": 479,
+        "description": "Boys & Girls Casual Sweatshirt Track Pants  (Green)",
+        "subcategory": "kids_casual",
+        "category": "kids_wear"
+    },
+    {
+        "id": 1125,
+        "title": "Shirazikidswear",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1125.webp",
+        "price": 305,
+        "description": "Boys & Girls Casual T-shirt Jeans  (Multicolor)",
+        "subcategory": "kids_casual",
+        "category": "kids_wear"
+    },
+    {
+        "id": 1126,
+        "title": "New Gen",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1126.webp",
+        "price": 215,
+        "description": "Boys Festive & Party Kurta, Waistcoat and Dhoti Pant Set  (Red Pack of 1)",
+        "subcategory": "boys_kurta",
+        "category": "kids_wear"
+    },
+    {
+        "id": 1127,
+        "title": "Vishesta",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1127.webp",
+        "price": 199,
+        "description": "Boys Festive & Party Kurta and Pyjama Set  (Multicolor Pack of 1)",
+        "subcategory": "boys_kurta",
+        "category": "kids_wear"
+    },
+    {
+        "id": 1128,
+        "title": "FTC Fashion",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1128.webp",
+        "price": 290,
+        "description": "Boys Festive & Party Kurta and Pyjama Set  (Yellow Pack of 2)",
+        "subcategory": "boys_kurta",
+        "category": "kids_wear"
+    },
+    {
+        "id": 1129,
+        "title": "FTC Fashion",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1129.webp",
+        "price": 239,
+        "description": "Boys Festive & Party Kurta, Waistcoat and Pyjama Set  (Black Pack of 3)",
+        "subcategory": "boys_kurta",
+        "category": "kids_wear"
+    },
+    {
+        "id": 1130,
+        "title": "Litway",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1130.webp",
+        "price": 329,
+        "description": "Boys Casual T-shirt Track Pants  (Multicolor)",
+        "subcategory": "boys_casual",
+        "category": "kids_wear"
+    },
+    {
+        "id": 1131,
+        "title": "Dulali",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1131.webp",
+        "price": 319,
+        "description": "Baby Boys & Baby Girls Party(Festive) T-shirt Shorts  (Blue)",
+        "subcategory": "kids_casual",
+        "category": "kids_wear"
+    },
+    {
+        "id": 1132,
+        "title": "Shyam Collections",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1132.webp",
+        "price": 199,
+        "description": "Baby Girls Casual Top Panty  (Multicolor)",
+        "subcategory": "girls_kurta",
+        "category": "kids_wear"
+    },
+    {
+        "id": 1133,
+        "title": "Opturn",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1133.webp",
+        "price": 459,
+        "description": "Baby Boys Party(Festive) Jacket Pant  (Grey)",
+        "subcategory": "boys_casual",
+        "category": "kids_wear"
+    },
+    {
+        "id": 1134,
+        "title": "Keenuu",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1134.webp",
+        "price": 479,
+        "description": "Boys Casual Shirt Shorts  (Blue)",
+        "subcategory": "boys_casual",
+        "category": "kids_wear"
+    },
+    {
+        "id": 1135,
+        "title": "Naivety",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1135.webp",
+        "price": 339,
+        "description": "Boys Casual Jeans T-shirt  (Red)",
+        "subcategory": "boys_casual",
+        "category": "kids_wear"
+    },
+    {
+        "id": 1136,
+        "title": "Brahmani Fashion",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1136.webp",
+        "price": 489,
+        "description": "Baby Boys & Baby Girls Hello Kitty Casual Shirt Shorts  (White)",
+        "subcategory": "boys_casual",
+        "category": "kids_wear"
+    },
+    {
+        "id": 1137,
+        "title": "Hampu",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1137.webp",
+        "price": 389,
+        "description": "Baby Boys & Baby Girls Casual T-shirt Dungaree  (Yellow)",
+        "subcategory": "kids_casual",
+        "category": "kids_wear"
+    },
+    {
+        "id": 1138,
+        "title": "Shyam Collections",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1138.webp",
+        "price": 389,
+        "description": "Baby Girls Party(Festive) Top Capri  (Multicolor)",
+        "subcategory": "kids_casual",
+        "category": "kids_wear"
+    },
+    {
+        "id": 1139,
+        "title": "ATXP",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1139.webp",
+        "price": 499,
+        "description": "Baby Boys & Baby Girls Casual T-shirt Shorts  (Multicolor)",
+        "subcategory": "kids_casual",
+        "category": "kids_wear"
+    },
+    {
+        "id": 1140,
+        "title": "TohuBohu",
+        "img": "http://localhost:8080/assets/fashionproductsimages/1140.webp",
+        "price": 359,
+        "description": "Baby Girls Casual Top Shorts  (Multicolor)",
+        "subcategory": "kids_casual",
+        "category": "kids_wear"
+    }
+]

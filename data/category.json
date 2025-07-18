@@ -1,0 +1,7 @@
+{
+    "category":{
+        "mens_wear":["mens_tshirts", "casual_shirts", "formal_shirts", "mens_jeans"],
+        "womens_wear":["kurtas", "sarees", "lehenga", "womens_topwear", "womens_dresses" ],
+        "kids_wear":["girls_kurta", "kids_shorts", "boys_casual", "kids_casual", "kids_sweartshirt", "boys_kurta"]
+    }
+}

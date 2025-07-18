@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q"
+        crossorigin="anonymous"></script>
+    <title>FashionStore API-Services</title>
+    <link rel="icon" href="./logo.png">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            scroll-behavior: smooth;
+        }
+
+        ::-webkit-scrollbar {
+            display: none;
+        }
+
+        body {
+            width: 100vw;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            place-items: center;
+
+        }
+
+        .pageContent {
+            height: 80vh;
+            width: 80vw;
+            display: flex;
+            margin-bottom: 20vh;
+        }
+
+        .bannerimage {
+            width: 60%;
+            height: 100%;
+            display: grid;
+            place-items: center;
+        }
+
+        .bannerContent {
+            width: 40%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: end;
+        }
+
+        .aboutapi,
+        .categorycontainer,
+        .routescontainer,
+        .footer {
+            width: 80vw;
+            /* margin-inline: 5em; */
+        }
+
+        .examplecode .code {
+            margin-top: 1em;
+            padding: 2em;
+        }
+
+        .categorycontainer .categorycontent {
+            padding: 2em;
+        }
+
+        .routeslinks ul li {
+            width: 50%;
+            display: flex;
+            justify-content: space-between;
+            margin-left: 2em;
+        }
+
+        .routeslinks ul li span {
+            line-height: 2.2;
+        }
+
+        @media screen and (max-width:600px) {
+
+            * {
+                margin: 0;
+                padding: 0;
+            }
+
+            .pageContent {
+                display: flex;
+                flex-direction: column;
+                width: 100vw;
+                height: 100vh;
+                margin: 0;
+                padding: 0;
+            }
+
+            .pageContent .bannerimage {
+                width: 100%;
+                height: 40%;
+                margin-bottom: 1.5em;
+            }
+
+            .pageContent .bannerimage img {
+                width: 90%;
+                height: max-content;
+                object-fit: contain;
+            }
+
+            .pageContent .bannerContent {
+                width: 100%;
+                height: 60%;
+                text-align: center;
+                padding: 1em;
+            }
+
+            .aboutapi,
+            .categorycontainer,
+            .routescontainer,
+            .footer {
+                width: 90vw;
+                /* margin-inline: 5em; */
+            }
+
+            .aboutapi {
+                margin: 0;
+                padding: 0;
+            }
+
+            .aboutapi .aboutheading h3 {
+                font-size: 1.38em;
+                text-align: center;
+            }
+
+            .routescontainer .routeslinks {
+                width: 100%;
+                overflow: scroll;
+                margin: 0;
+                padding: 0;
+            }
+
+            .routescontainer .routeslinks ul li {
+                width: 100%;
+                display: flex;
+                justify-content: start;
+                margin: 0;
+            }
+
+            .routescontainer .routeslinks ul li span {
+                line-height: 2.2;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg bg-body-tertiary bg-opacity-50 position-fixed top-0 vw-100 z-3" id="mainNav">
+        <div class="container-fluid ">
+            <a class=" ms-2 navbar-brand d-flex justify-content-center align-items-center" href="/">
+                <img src="./logo.png" alt="Logo" width="50" height="50"
+                    class="d-inline-block align-text-top fit-content">
+                <span class="navbar-brand h1 mt-1 ms-2">
+                    FashionStore<span class="text-primary navbar-brand h1 fw-bold">API</span>
+                </span>
+            </a>
+            <button class="navbar-toggler btn-outline-light" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse me-2" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="/">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/docs">Docs</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/">Github</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="pageContent" id="pageContent">
+        <div class="bannerimage">
+            <img src="./herobannerimage.jpg" alt="" width="fit-content" height="500px" style="object-fit: contain;">
+        </div>
+        <div class="bannerContent">
+            <div class="bannerheading mb-1">
+                <h2 class="title fw-bold">Fashion Store <span class="fw-bold h2 text-primary">API</span></h2>
+            </div>
+            <div class="bannercaption mb-1">
+                <p class="fw-lighter fs-5">Style your store with speed. Our Fashion Store rest API helps you build,
+                    manage,
+                    and scale online fashion experiences-effortlessly.</p>
+            </div>
+            <div class="bannerbuttons mb-1">
+                <a class="btn p-2 fw-bold" href="/docs"
+                    style="width: 140px; background-color: #FFB76B; color: white;">Read Docs</a>
+                <a class="btn p-2 fw-bold" href="/" style="width: 140px; background-color: #996888; color: white;">View
+                    Github</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="aboutapi mt-5 mb-4">
+        <div class="aboutheading mb-4">
+            <h3 class="heading fw-bold text-center">{ Fashion That Talks to Code. }</h3>
+        </div>
+        <div class="aboutcaption mb-5">
+            <p class="text-center fs-5 fw-lighter">The Fashion Store API offers seamless <span
+                    class="fw-bold text-primary">FREE</span> access to clothing
+                RESTful API to build and scale your fashion eCommerce platform. Get real-time product's data, category.
+                Our API gives you fast, organized access to your entire store.
+            </p>
+        </div>
+        <div class="examplecode">
+            <div class="exampleheaind">
+                <h4 class="heading fw-bold">Getting Started with the API !</h4>
+            </div>
+            <div class="code" style="background-color: #f5f5f5;">
+                <p class="fs-5 text-primary">
+                    fetch("") <br>
+                    .then(res=>res.json()) <br>
+                    .then(json=>console.log(json))
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <div class="categorycontainer mb-4">
+        <div class="categoryheading mb-4">
+            <h4 class="heading fw-bold mb-3">Categories</h4>
+            <p class="fw-lighter fs-5">We Divided fashion in to 3 main categories</p>
+        </div>
+        <div class="categorycontent d-flex flex-column align-items-start justify-content-start"
+            style="background-color: #f5f5f5;">
+            <a class="heading btn fs-5 text-primary  btn-outline-light" target="_blank"
+                href="/fashion/mens_wear">mens_wear</a>
+            <a class="heading btn fs-5 text-primary  btn-outline-light" target="_blank"
+                href="/fashion/womens_wear">womens_wear</a>
+            <a class="heading btn fs-5 text-primary  btn-outline-light" target="_blank"
+                href="/fashion/kids_wear">kids_wear</a>
+        </div>
+    </div>
+
+    <div class="routescontainer mb-4">
+        <div class="routesheading">
+            <h4 class="heading fw-bold mb-3">Routes</h4>
+            <p class="fw-lighter fs-5">supported HTTP methods</p>
+        </div>
+        <div class="routeslinks p-4" style="background-color: #f5f5f5;">
+            <ul class="nav d-flex flex-column">
+                <li class="nav-item fs-5 my-1"><span>GET</span><a target="_blank" href="/category"
+                        class="btn fs-5 text-primary  btn-outline-light">/category</a></li>
+                <li class="nav-item fs-5 my-1"><span>GET</span><a target="_blank" href="/getallfashionproducts"
+                        class="btn fs-5 text-primary  btn-outline-light">/getallfashionproducts</a></li>
+                <li class="nav-item fs-5 my-1"><span>GET</span><a target="_blank" href="/fashion/mens_wear"
+                        class="btn fs-5 text-primary  btn-outline-light">/fashion/mens_wear</a></li>
+                <li class="nav-item fs-5 my-1"><span>GET</span><a target="_blank" href="/fashion/womens_wear"
+                        class="btn fs-5 text-primary  btn-outline-light">/fashion/womens_wear</a></li>
+                <li class="nav-item fs-5 my-1"><span>GET</span><a target="_blank" href="/fashion/kids_wear"
+                        class="btn fs-5 text-primary  btn-outline-light">/fashion/kids_wear</a></li>
+                <li class="nav-item fs-5 my-1"><span>GET</span><a target="_blank" href="/getfashionproductsbyid/1001"
+                        class="btn fs-5 text-primary  btn-outline-light">/getfashionproductsbyid/1001</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <footer class="footer" style="background-color: #f5f5f5; display: grid; place-items: center;">
+        <p class="text-center fw-lighter p-4">by ©Ganesh Na...ni❤️</p>
+    </footer>
+
+
+    <script>
+        function adjustContentPadding() {
+            const navbar = document.getElementById("mainNav");
+            const content = document.getElementById("pageContent");
+            const navHeight = navbar.offsetHeight;
+            content.style.marginTop = navHeight + "px";
+        }
+
+        window.addEventListener("load", adjustContentPadding);
+        window.addEventListener("resize", adjustContentPadding);
+    </script>
+</body>
+
+</html>
