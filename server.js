@@ -17,12 +17,16 @@ const getFashionProductById = require('./controller/getFashionProductById')
 const getFashionProductByCategory = require('./controller/getFashionProductByCategory')
 
 
+app.get('/', (req, res) => {
+    res.sendFile(path.join(__dirname, 'public/index.html'));
+});
+
 app.get('/docs', (req, res) => {
-    res.sendFile(path.join(__dirname, 'public', 'documentpage.html'))
+    res.sendFile(path.join(__dirname, 'public/documentpage.html'));
 });
 
 
-app.get("/category",(req,res)=>{
+app.get("/category", (req, res) => {
     res.send(listofCategory)
 })
 
@@ -31,7 +35,7 @@ app.get("/getallfashionproducts", (req, res) => {
 });
 
 
-app.get("/fashion/:category",(req,res)=>{
+app.get("/fashion/:category", (req, res) => {
     let category = req.params.category;
     res.send(getFashionProductByCategory(category));
 })
